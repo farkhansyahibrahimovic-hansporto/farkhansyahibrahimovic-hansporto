@@ -1,29 +1,32 @@
 <div align="center">
 
 ```
-███████╗ █████╗ ██████╗ ██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗
-██╔════╝██╔══██╗██╔══██╗██║ ██╔╝██║  ██║██╔══██╗████╗  ██║
-█████╗  ███████║██████╔╝█████╔╝ ███████║███████║██╔██╗ ██║
-██╔══╝  ██╔══██║██╔══██╗██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║
-██║     ██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+██╗  ██╗ █████╗ ███╗   ██╗███████╗
+██║  ██║██╔══██╗████╗  ██║██╔════╝
+███████║███████║██╔██╗ ██║███████╗
+██╔══██║██╔══██║██║╚██╗██║╚════██║
+██║  ██║██║  ██║██║ ╚████║███████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
 
 **`farkhansyah ibrahimovic`**
 
-*Software Engineering Graduate · Web Developer · Lifelong Learner*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=PPLG+Graduate+%7C+SMK+Negeri+1+Bawang;Web+Developer+%7C+PHP+%2B+Laravel;%23BeginnerMove+—+langkah+pertama+dimulai.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=SMK+Negeri+1+Bawang+%7C+PPLG+Graduate;Web+Developer+%7C+PHP+%2B+Laravel;Turning+ideas+into+real+projects.)](https://git.io/typing-svg)
+![](https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=100%)
 
 </div>
 
----
+<br>
 
-## `$ whoami`
+**`$ whoami`**
 
-Fresh graduate dari **SMK Negeri 1 Bawang** jurusan Pengembangan Perangkat Lunak dan Gim (PPLG), berbasis di Indonesia. Tertarik pada teknologi dan pengembangan perangkat lunak — terus belajar, mudah beradaptasi, dan siap berkontribusi.
+> Fresh graduate dari **SMK Negeri 1 Bawang** jurusan Pengembangan Perangkat Lunak dan Gim (PPLG).
+> Tertarik pada teknologi dan pengembangan perangkat lunak — adaptif, bertanggung jawab, dan terus belajar.
 
-`PHP` `Laravel` `HTML/CSS` `JavaScript` `Nuxt.js` `Git`
+&nbsp;&nbsp;&nbsp;`PHP` &nbsp;`Laravel` &nbsp;`HTML/CSS` &nbsp;`JavaScript` &nbsp;`Nuxt.js` &nbsp;`Git`
+
+<br>
 
 ---
 
@@ -33,31 +36,33 @@ Fresh graduate dari **SMK Negeri 1 Bawang** jurusan Pengembangan Perangkat Lunak
 
 *Masih di awal jalan — tapi langkah pertama sudah dimulai.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9)
+![](https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=1&width=60%)
 
-</div>
+<br>
 
----
+**`$ ping ./contact`**
 
-## `$ ping ./contact`
+<br>
 
-<div align="center">
-
-<a href="https://instagram.com/yourusername">
-  <img src="https://img.shields.io/badge/@yourusername-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/hansdotcodotid?igsh=MWJhbDU4eHJoZ2oycA==">
+  <img src="https://img.shields.io/badge/@hansdotcodotid-Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-&nbsp;
-<a href="mailto:yourname@email.com">
-  <img src="https://img.shields.io/badge/yourname@email.com-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+&nbsp;&nbsp;
+<a href="mailto:farkhansyahibrahimovic@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-farkhansyahibrahimovic-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/farkhansyahibrahimovic-hansporto">
+  <img src="https://img.shields.io/badge/GitHub-hansporto-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=1&width=60%)
 
-<div align="center">
+<br>
 
 *Small ideas, consistently built, become something great.*
 
