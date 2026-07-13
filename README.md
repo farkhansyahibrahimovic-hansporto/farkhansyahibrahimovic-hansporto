@@ -26,7 +26,9 @@ Still early — building slowly, on purpose.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4364b1ee39c3.gif" width="100%" height="2px"/>
 
 <div align="center">
+  
 ### CONTACT
+
 <a href="mailto:farkhansyahibrahimovic@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=1a1a1a" />
 </a>
