@@ -17,6 +17,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4364b1ee39c3.gif" width="100%" height="2px"/>
 
 <div align="center">
+  
 ### ABOUT
 Backend-minded developer based in Semarang, Indonesia.
 I prefer structure over noise, and clarity over cleverness.
